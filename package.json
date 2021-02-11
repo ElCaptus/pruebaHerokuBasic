@@ -1,0 +1,28 @@
+{
+  "name": "pruebaHerokuBasic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord.js": "^12.5.1",
+    "dotenv-flow": "^3.2.0",
+    "node": "^15.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElCaptus/pruebaHerokuBasic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElCaptus/pruebaHerokuBasic/issues"
+  },
+  "homepage": "https://github.com/ElCaptus/pruebaHerokuBasic#readme"
+}
